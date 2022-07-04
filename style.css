@@ -66,6 +66,7 @@ body{
     margin: 30px auto;
     padding: 0%;
     display: flex;
+    -webkit-justify-content: center;
 }
 
 .icon-list li {
